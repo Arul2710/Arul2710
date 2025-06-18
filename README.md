@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Arulprakash</h1>
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=450&lines=💻+Junior+Developer;🎯+Frontend+Developer;🎨+UI%2FUX+Designer;🚀+Full+Stack+Developer+%F0%9F%9A%80)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=450&lines=💻+Junior+Developer;🎯+Frontend+Developer;🎨+UI%2FUX+Designer;📚+ 🚀+Learning+Full+Stack+Developer+%F0%9F%9A%80)
 
 
 
