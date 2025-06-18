@@ -10,6 +10,7 @@
 🌱 Currently learning: React, Node.js, backend basics & deployment.<br>
 💬 Let's talk about: HTML, CSS, JavaScript, UI/UX Design.<br>
 👨‍💻 Portfolio coming soon... stay tuned!<br>
+  Learning Full Stack Development 🧠
 🎓  B.Sc. Mathematics Student.<br>
 😄 Fun Fact: I debug more than I sleep! 😅
 </p>
