@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Arrulprakash/Arrulprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Arulprakash</h1>
+<h3 align="center">Frontend Developer | Student at Presidency College, Chennai</h3>
 
-Here are some ideas to get you started:
+<p align="left">🚀 I build modern, responsive UIs and interactive websites.<br>
+🌱 Currently learning: React, Node.js, backend basics & deployment.<br>
+💬 Let's talk about: HTML, Tailwind CSS, JavaScript, UI/UX Design.<br>
+👨‍💻 Portfolio coming soon... stay tuned!<br>
+🎓 Final Year B.Sc. Mathematics Student.<br>
+😄 Fun Fact: I debug more than I sleep! 😅
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Languages and Tools I Use:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🔗 Where to Find Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/arul-prakash-s2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:arulprakashs2710@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Arrulprakash" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arrulprakash&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrulprakash&layout=compact&theme=tokyonight"/>
+</p>
+
