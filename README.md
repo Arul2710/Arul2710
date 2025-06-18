@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arulprakash</h1>
-### 🚀 My Developer Journey
-![Journey](https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=450&lines=Junior+Developer;Frontend+Developer;UI%2FUX+Designer;Full+Stack+Learner)
+font=Fira+Mono&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=450&lines=Junior+Developer;Frontend+Developer;UI%2FUX+Designer;Full+Stack+Learner)
 
 - 💻 Started with HTML, CSS & JavaScript
 - 🧠 Now exploring UI/UX and Frontend tools
