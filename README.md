@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Arulprakash</h1>
-<h3 align="center">Frontend Developer | Student at Presidency College, Chennai</h3>
+### 👨‍💻 My Tech Journey So Far...
+
+- 🚀 **Started as a Junior Developer** – Learning the basics of web technologies  
+- 🧠 **Frontend Developer in Progress** – Building responsive UIs with HTML, CSS, JS, and Tailwind  
+- 🎨 **UI/UX Design Explorer** – Designing smooth, user-friendly experiences with Figma  
+- 📈 **Future Goals** – Full-Stack Web Development & Real-world Project Deployment
+
 
 <p align="left">🚀 I build modern, responsive UIs and interactive websites.<br>
 🌱 Currently learning: React, Node.js, backend basics & deployment.<br>
