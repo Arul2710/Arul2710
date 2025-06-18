@@ -1,11 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Arulprakash</h1>
-### 👨‍💻 My Tech Journey So Far...
+### 🚀 My Developer Journey
+![Journey](https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&width=450&lines=Junior+Developer;Frontend+Developer;UI%2FUX+Designer;Full+Stack+Learner)
 
-- 🚀 **Started as a Junior Developer** – Learning the basics of web technologies  
-- 🧠 **Frontend Developer in Progress** – Building responsive UIs with HTML, CSS, JS, and Tailwind  
-- 🎨 **UI/UX Design Explorer** – Designing smooth, user-friendly experiences with Figma  
-- 📈 **Future Goals** – Full-Stack Web Development & Real-world Project Deployment
+- 💻 Started with HTML, CSS & JavaScript
+- 🧠 Now exploring UI/UX and Frontend tools
+- 🚀 Learning to build full-stack web apps
+
+
+
 
 
 <p align="left">🚀 I build modern, responsive UIs and interactive websites.<br>
