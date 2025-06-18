@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arulprakash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=450&lines=💻+Junior+Developer;🎯+Frontend+Developer;🎨+UI%2FUX+Designer;📚+Learning+Full+Stack+Development+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F5D4&center=true&vCenter=true&width=450&lines=💻+Junior+Developer;🎯+Frontend+Developer;🎨+UI%2FUX+Designer;📚+Learning+Full+Stack+Development+🚀" alt="Typing SVG" />
 </p>
+
 
 <p align="center">🚀 I build modern, responsive UIs and interactive websites.<br>
 🌱 Currently learning: React, Node.js, backend basics & deployment.<br>
