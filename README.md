@@ -4,7 +4,7 @@
 
 <p align="left">🚀 I build modern, responsive UIs and interactive websites.<br>
 🌱 Currently learning: React, Node.js, backend basics & deployment.<br>
-💬 Let's talk about: HTML, Tailwind CSS, JavaScript, UI/UX Design.<br>
+💬 Let's talk about: HTML, CSS, JavaScript, UI/UX Design.<br>
 👨‍💻 Portfolio coming soon... stay tuned!<br>
 🎓 Final Year B.Sc. Mathematics Student.<br>
 😄 Fun Fact: I debug more than I sleep! 😅
@@ -16,12 +16,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/UI/UX-Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
