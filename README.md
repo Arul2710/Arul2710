@@ -1,69 +1,41 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+I'm+Arulprakash+👋;Full+Stack+Developer+🚀;MERN+Stack+Expert+💻;Creative+UI%2FUX+Designer+🎨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=1&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arulprakash" alt="Hi, I'm Arulprakash" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Arul2710">
-    <img src="https://komarev.com/ghpvc/?username=Arul2710&color=00F5D4&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  ✨ <b>Building the future, one line of code at a time.</b> ✨
+  <img src="https://komarev.com/ghpvc/?username=Arul2710&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arul2710?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  🚀 <b>Specialized in:</b> Responsive UIs & Scalable Backends<br>
-  🌱 <b>Learning:</b> Cloud Deployment & Advanced System Design<br>
-  🎓 <b>Background:</b> B.Sc. Mathematics Student<br>
-  ⚡ <b>Fun Fact:</b> I drink coffee and turn it into code! ☕
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,postman" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
-
-### 📊 My GitHub Journey:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arul2710&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arul2710&theme=radical&border_radius=10" width="48%" />
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arul2710&layout=compact&theme=radical&border_radius=10" width="70%" />
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arul2710&theme=radical" width="100%" />
-</p>
-
----
-
-### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/arul-prakash-s2004" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:arulprakashs2710@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5D4&height=100&section=footer" width="100%"/>
-</p>
+```javascript
+const arulprakash = {
+  education: "B.Sc. Mathematics Student",
+  code: ["JavaScript", "Java", "HTML", "CSS", "Python"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "Bootstrap", "Framer Motion"]
+    },
+    backEnd: {
+      js: ["Node.js", "Express.js"],
+      database: ["MongoDB", "MySQL"]
+    },
+    tools: ["Figma", "Git", "VS Code", "Postman"]
+  },
+  currentFocus: "Building full-stack applications with MERN stack",
+  funFact: "I debug more than I sleep! 😅"
+};
