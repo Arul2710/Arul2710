@@ -49,10 +49,10 @@
   <a href="https://www.linkedin.com/in/arul-prakash-s2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_ID" target="_blank">
+  <a href="https://www.instagram.com/mr_kutty_arul" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/YOUR_ID" target="_blank">
+  <a href="https://x.com/ArulprakashPra5" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:arulprakashs2710@gmail.com">
