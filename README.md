@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>Specialized in:</b> Responsive UIs & Scalable Backends<br>
+  🚀 <b>Specialized in:</b> Building Responsive Websites and Scalable SaaS Products<br>
   🌱 <b>Learning:</b> Cloud Deployment & Advanced System Design<br>
   🎓 <b>Background:</b> B.Sc. Mathematics Student<br>
   ⚡ <b>Fun Fact:</b> I debug more than I sleep! 😅
